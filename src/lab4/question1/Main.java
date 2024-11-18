@@ -1,3 +1,4 @@
+package lab4.question1;
 public class Main {
     public static void main(String[] args) {
         shape ashape = new shape();

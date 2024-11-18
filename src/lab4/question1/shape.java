@@ -1,3 +1,4 @@
+package lab4.question1;
 //Write a program to create a class named shape. In this class we have three subclasses Circle, Triangle and Square. 
 //Each class has two member functions named draw () and erase (). 
 public class shape {
