@@ -1,5 +1,4 @@
 package lab3.question3;
-
 public class Main {
 public static void main(String[] args) {
     Player Ronit = new Player(1, 2);
@@ -11,5 +10,4 @@ public static void main(String[] args) {
     Ronit.newdisplay();
     Shyam.newdisplay();  
 }
-    
 }
