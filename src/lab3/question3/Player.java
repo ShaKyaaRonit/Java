@@ -1,7 +1,4 @@
 package lab3.question3;
-
-import java.nio.channels.Pipe.SourceChannel;
-
 public class Player {
 int x;
 int y;
