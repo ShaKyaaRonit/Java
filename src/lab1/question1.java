@@ -15,6 +15,7 @@ public class question1 {
         System.out.println("enter Rate:");
         Rate = abc.nextInt();
         SI=(Principal*Time*Rate)/100;
+        abc.close();
     System.out.println("Simple Interest:"+SI);
     }
 }
