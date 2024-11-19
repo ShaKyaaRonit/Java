@@ -1,3 +1,4 @@
+//Write a program to find the maximum and minimum element in an array.
 package lab2;
 public class question2 {
 public static void main(String[] args)
